@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9764e3-56a5-4851-9877-028bb86d2aae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListaDeHeranca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Empregado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteAdministrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteEmpregado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteFornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteOperario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteVendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vendedor.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d9764e3-56a5-4851-9877-028bb86d2aae" name="Changes" comment="Lista de Herança" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -51,7 +38,7 @@
   "keyToString": {
     "Application.TesteFornecedor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "LIsta-de-Heraça-Completa",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -91,11 +78,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724702269579</updated>
-      <workItem from="1724702270632" duration="775000" />
+      <workItem from="1724702270632" duration="1081000" />
     </task>
+    <task id="LOCAL-00001" summary="Lista de Herança">
+      <option name="closed" value="true" />
+      <created>1724703092210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724703092210</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lista de Herança">
+      <option name="closed" value="true" />
+      <created>1724703317582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724703317582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lista de Herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lista de Herança" />
   </component>
 </project>
